@@ -1,0 +1,42 @@
+# GitHub Pages テーマ設定
+# 利用可能なテーマ例（以下のいずれかを選択してください）:
+
+# 1. Minimal（シンプルなテーマ）
+theme: minima
+
+# 2. その他の人気テーマ（必要に応じてコメントアウトを外してください）
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-time-machine
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-tactile
+
+# サイト基本設定
+title: "My First Web App"
+description: "GitHub Pagesで作成したウェブサイト"
+
+# GitHub Pages 設定
+markdown: kramdown
+highlighter: rouge
+
+# プラグイン（GitHub Pagesで自動有効化されるもの）
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# その他の設定
+baseurl: ""
+url: ""
+
+# 除外ファイル
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock 
