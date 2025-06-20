@@ -2,10 +2,10 @@
 # 利用可能なテーマ例（以下のいずれかを選択してください）:
 
 # 1. Minimal（シンプルなテーマ）
-theme: minima
+# theme: minima
 
 # 2. その他の人気テーマ（必要に応じてコメントアウトを外してください）
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-modernist
